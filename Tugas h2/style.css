@@ -1,0 +1,37 @@
+body {
+    background-image: url(Pixel-nature.jpg);
+}
+.container {
+    width: 1260px;
+    margin: auto;
+    background-color: rgb(193, 220, 233);
+}
+header {
+    text-align: center;
+}
+h1 {
+    font-size: 60;
+    font-family: Arial;
+    color: rgb(49, 5, 5);
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    font-family: sans-serif;
+    border-bottom: 3px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h3 {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+p {
+    font-family: sans-serif;
+    border-bottom: 3px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
